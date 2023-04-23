@@ -1,0 +1,23 @@
+name: "Server Info"
+
+version: 0.0.1
+
+api: 4.0.0
+
+main: FantasyGirl1988\Serverinfo\Main
+
+author: FantasyGirl1988
+
+commands:
+
+ servers:
+
+  description: "Siehe alle Infos!"
+
+  permission: serverinfo.cmd
+
+permissions:
+
+ serverinfo.cmd:
+
+  default: op
