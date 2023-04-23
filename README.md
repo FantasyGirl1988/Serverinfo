@@ -1,0 +1,2 @@
+# Serverinfo
+Dies Unterstützt Waterdog!
